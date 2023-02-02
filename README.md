@@ -7,6 +7,9 @@ Weather and Climate application custom created using the OpenWeatherMap API focu
 # INFORMATION ABOUT THE APP
 Weather and Climate Application created in a personalized way using the OpenWeatherMap API The idea of the application is to consume API of weather and expose the weather and its information in a personalized way through an APP.
 
+- Check detailed information about the weather
+- Explore the Earth Weather forecast (Real Time)
+- Search functionality
 
 
 # TECHNOLOGIES USED
